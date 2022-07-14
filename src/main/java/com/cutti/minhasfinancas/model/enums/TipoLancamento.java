@@ -1,4 +1,4 @@
-package com.cutti.minhasfinancas.model.entity;
+package com.cutti.minhasfinancas.model.enums;
 
 public enum TipoLancamento {
 
